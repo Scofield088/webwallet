@@ -1,4 +1,6 @@
 🔐 Web-Based HD Wallet Generator
+
+
 A simple and secure web-based HD wallet built using React that allows users to:
 
 🔑 Generate wallets using a 12-word recovery phrase (mnemonic)
@@ -15,6 +17,8 @@ A simple and secure web-based HD wallet built using React that allows users to:
 
 
 🚀 Features
+
+
 🔐 Generate 12-word mnemonic (BIP39)
 
 🔁 Derive multiple wallets (HD) using standard paths
