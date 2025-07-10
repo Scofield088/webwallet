@@ -1,28 +1,24 @@
-Web HD Wallet Generator
-This is a simple web-based wallet generator that supports both Ethereum and Solana. You can:
+🔐 Web-Based HD Wallet Generator
+A simple and secure web-based HD wallet built using React that allows users to:
 
-Generate a 12-word mnemonic (seed phrase)
+🔑 Generate wallets using a 12-word recovery phrase (mnemonic)
 
-Create multiple wallets for Ethereum & Solana from the same seed (HD wallets)
+🔁 Create and manage multiple Ethereum and Solana wallets from one seed (HD wallet)
 
-View and copy public/private keys
+📋 Copy public/private keys
 
-Toggle private key visibility
-
-Delete wallets
+🧹 Delete wallets easily
 
 
 
-Built With
-React
 
-ethers.js (for Ethereum wallets)
 
-bip39
 
-@solana/web3.js
+🚀 Features
+🔐 Generate 12-word mnemonic (BIP39)
 
-bs58 (for Solana key encoding)
+🔁 Derive multiple wallets (HD) using standard paths
 
-@noble/hashes (for Solana seed HMAC)
+🪙 Supports Ethereum (ETH) and Solana (SOL)
 
+🧠 Always regenerates same wallets from same phrase
